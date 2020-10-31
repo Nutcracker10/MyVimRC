@@ -1,4 +1,5 @@
 set nocompatible
+set autoindent
 filetype off
 syntax on
 set number
